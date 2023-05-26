@@ -1,6 +1,5 @@
 # OpenCV_study
 > * 참고교재 : (https://bkshin.tistory.com/category/OpenCV)
-- [웹캠 사용시 공간부족 현상](웹캠 이용시 오류.md)
 - [1일차](20230516.md)
 - [2일차](20230517.md)
 - [3일차](20230518.md)

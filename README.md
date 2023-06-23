@@ -2,6 +2,7 @@
 > * 참고 교재 : (https://gongdo.kr/courses/rgAUGANQH2rqIpiCDvun)
 > * 참고 교재 : (https://bkshin.tistory.com/category/OpenCV)
 > * 참고 자료 : (https://drive.google.com/drive/folders/1XuUpaZ1L_UwkekqrXShKBq309FOXJMjC)
+> * [쿠다 참고 내용](cuda.md)
 - [1일차](20230516.md)
 - [2일차](20230517.md)
 - [3일차](20230518.md)
